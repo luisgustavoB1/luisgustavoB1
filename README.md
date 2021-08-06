@@ -19,7 +19,8 @@
 </div>
 
 ### :heart: To learn and share knowledge
-### 👋 Hi there,  I'm a computer engineer 
+
+### 👋 Hi there,  I'm a iOS developer
 
 - 🔭  I’m currently working at Zup Innovation
 - 💻  I’m currently learning SwiftUI
