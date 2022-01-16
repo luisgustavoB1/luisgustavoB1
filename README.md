@@ -22,7 +22,7 @@
 
 ### 👋 Hi there,  I'm a iOS developer
 
-- 🔭  I’m currently working at Zup Innovation
+- 🔭  I’m currently working at BTG Pactual
 - 💻  I’m currently learning SwiftUI
 - 💬  Ask me about Swift, Kotlin, iOS
-- 📫  How to reach me: luisgustavooliveirasilva2016@gmail.com
+- 📫  How to reach me: luisgustavob1@outlook.com
