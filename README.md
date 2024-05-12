@@ -25,4 +25,4 @@
 - 🔭  I’m currently working at BTG Pactual
 - 💻  I’m currently learning SwiftUI
 - 💬  Ask me about Swift, Kotlin, iOS
-- 📫  How to reach me: luisgustavob1@outlook.com
+- 📫  How to reach me: contact@luisgustavob1.com
