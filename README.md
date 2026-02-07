@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab5f0d91-de4d-421f-8189-2b9035d0aed7" width="400" style="border-radius: 70%;" width="320"
-       style="border-radius: 50%; border: 4px solid #8F0340;" />
-  
+  <img 
+    src="https://github.com/user-attachments/assets/ab5f0d91-de4d-421f-8189-2b9035d0aed7" 
+    width="320" 
+    style="border-radius: 50%; border: 4px solid #8F0340;" 
+  />
 </p>
 
 <h1 align="center">Hey, I'm Luis Gustavo 👋</h1>
@@ -26,11 +28,11 @@
 
 ## 🚀 About Me
 
-- 📱 iOS Engineer focused on building scalable mobile apps
-- 🏢 Currently working at **FreeCast**
-- ⚡ Passionate about **Swift**, **SwiftUI**, **UIKit**, **tvOS** and mobile architecture
-- 🧠 Always learning and sharing knowledge
-- 📩 Contact me at: **contact@luisgustavob1.com**
+- 📱 iOS Engineer focused on building scalable mobile apps  
+- 🏢 Currently working at **FreeCast**  
+- ⚡ Passionate about **Swift**, **SwiftUI**, **UIKit**, **tvOS** and mobile architecture  
+- 🧠 Always learning and sharing knowledge  
+- 📩 Contact me at: **contact@luisgustavob1.com**  
 
 ---
 
@@ -41,23 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luisgustavob1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luisgustavob1&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/luisgustavoB1/luisgustavoB1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
